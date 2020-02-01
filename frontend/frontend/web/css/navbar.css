@@ -1,0 +1,38 @@
+.white-nav-top {
+    background: #212226;
+    padding: 10px 0;
+    -webkit-box-shadow: 0 8px 6px -9px #999;
+    box-shadow: 0 8px 6px -9px #999;
+    z-index: 100;
+}
+@media screen and (min-width: 750px) {
+.navbar-nav{
+  float: right;
+}
+}
+.navbar-toggle .icon-bar {
+    background-color: #f4c613;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background-color:#212226;
+    color:#f4c613!important;
+}
+.navbar-nav > .active > a {
+  color: #f4c613!important;
+
+}
+ul#w1.navbar-nav.menu_center.nav{
+  text-align: center;
+}
+ul#w0-collapse.collapse.navbarcollapse.nav{
+  text-align: center;
+}
+ul.navbar-nav>li>a {
+    font-family: "Raleway", sans-serif;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}

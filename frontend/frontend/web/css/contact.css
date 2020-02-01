@@ -1,0 +1,342 @@
+#contact{
+
+  margin-top: 50px;
+
+  margin-bottom: 50px;
+
+}
+
+
+
+.vertical-heading h5{
+
+  color:#f4c613;
+
+  font-size: 14px;
+
+  font-weight:500;
+
+  text-transform: uppercase;
+
+  word-spacing:9px;
+
+  display:inline-block;
+
+  transform: rotate(-90deg);
+
+  position: relative;
+
+  top:60px;
+
+  left:-53px;
+
+}
+
+h5{
+
+  margin-top: 10px;
+
+  margin-bottom: 10px;
+
+}
+
+h2{
+
+  margin-left: 0px;
+
+}
+
+ul.social-list {
+
+    padding: 0;
+
+    margin-top: 20px;
+
+}
+
+ul.social-list li {
+
+    display: inline-block;
+
+    padding: 0;
+
+}
+
+#contact-left ul.social-list li a {
+
+    color: #212226;
+
+    border: 1px solid #212226;
+
+    text-align: center;
+
+}
+
+ul.social-list li a {
+
+    border: 1px solid #fff;
+
+    width: 70px;
+
+    height: 70px;
+
+    display: inline-block;
+
+    line-height: 70px;
+
+    color: #fff;
+
+    border-radius: 50%;
+
+    -webkit-transition: all 400ms linear;
+
+    transition: all 400ms linear;
+
+}
+
+#contact-left ul.social-list li a:hover {
+
+    color: #fff;
+
+    border-color: transparent;
+
+}
+
+ul.social-list li:nth-child(1) a:hover {
+
+    background:  #e95950;
+
+    border-color: transparent;
+
+}
+
+ul.social-list li:nth-child(2) a:hover {
+
+    background: #3b5998;
+
+    border-color: transparent;
+
+}
+
+ul.social-list li:nth-child(3) a:hover {
+
+    background:  #38A1F3;
+
+    border-color: transparent;
+
+}
+
+
+
+/* dugme u contact formi*/
+
+.btn-yellow {
+
+    color: #fff;
+
+    border: 1px solid #f4c613;
+
+    background-color: #f4c613;
+
+}
+
+.btn-general {
+
+    font-family: 'Raleway', sans-serif;
+
+    border-radius: 28px;
+
+    font-size: 13px;
+
+    text-transform: uppercase;
+
+    margin: 0 6px;
+
+    padding: 12px 46px 12px 46px;
+
+    -webkit-transition: all .5s;
+
+    transition: all .5s;
+
+}
+
+
+
+.btn-yellow {
+
+    color: #fff;
+
+    border: 1px solid #f4c613;
+
+    background-color: #f4c613;
+
+}
+
+.btn-general {
+
+    font-family: 'Raleway', sans-serif;
+
+    border-radius: 28px;
+
+    text-transform: uppercase;
+
+    margin: 0 6px;
+
+    transition: all .5s;
+
+}
+
+.btn {
+
+    display: inline-block;
+
+    font-weight: 400;
+
+    line-height: 1.42857143;
+
+    text-align: center;
+
+    white-space: nowrap;
+
+    vertical-align: middle;
+
+    touch-action: manipulation;
+
+    cursor: pointer;
+
+    user-select: none;
+
+    background-image: none;
+
+    border-radius: 4px;
+
+}
+
+@media (max-width: 767px)
+
+.btn-general {
+
+    padding: 8px 25px 6px 25px;
+
+    font-size: 10px;
+
+}
+
+
+
+
+
+
+
+/*contact left*/
+
+#contact-left p{
+
+  margin:25px 0 20px 0;
+
+}
+
+ul.office-detailes {
+
+  list-style: none;
+
+  padding: 0;
+
+}
+
+ul.office-detailes li{
+
+  font-family: "Open Sans", sans-serif;
+
+  margin-top:12px;
+
+  display: -webkit-box;
+
+  display: -ms-flexbox;
+
+  display: flex;
+
+}
+
+ul.office-detailes li i{
+
+  font-size: 20px;
+
+  width: 45px;
+
+}
+
+
+
+#content-left ul.social-list li a{
+
+  color:#212226;
+
+  border:1px solid #212226;
+
+  text-align: center;
+
+}
+
+
+
+#content-left ul.social-list li a:hover{
+
+  color:#fff;
+
+  border-color: transperent;
+
+}
+
+
+
+/*contact left*/
+
+#contact-right{
+
+  padding: 25px 30px;
+
+  -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+
+  border-radius: 4px;
+
+}
+
+
+
+#contact-right h4{
+
+  font-size:24px;
+
+}
+
+
+
+#contact-right p{
+
+  margin-bottom:25px;
+
+}
+
+
+
+#contact-right form input.form-control{
+
+  font-family:  "Open Sans", sans-serif;
+
+  padding: 10px 15px;
+
+  font-size: 12px;
+
+  line-height: 24px;
+
+}
+
+#contact-right form textarea.form-control{
+
+  min-height: 164px;
+
+}
+

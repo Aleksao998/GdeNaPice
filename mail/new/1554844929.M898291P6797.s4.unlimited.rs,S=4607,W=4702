@@ -1,0 +1,95 @@
+Return-Path: <sara.labalo18@gmail.com>
+Delivered-To: sportup@s4.unlimited.rs
+Received: from s4.unlimited.rs
+	by s4.unlimited.rs with LMTP
+	id QD8KNQENrVyNGgAA9FQfDw
+	(envelope-from <sara.labalo18@gmail.com>)
+	for <sportup@s4.unlimited.rs>; Tue, 09 Apr 2019 23:22:09 +0200
+Return-path: <sara.labalo18@gmail.com>
+Envelope-to: offic@gdenapice.com
+Delivery-date: Tue, 09 Apr 2019 23:22:09 +0200
+Received: from mail-pg1-f182.google.com ([209.85.215.182]:41628)
+	by s4.unlimited.rs with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <sara.labalo18@gmail.com>)
+	id 1hDyC0-0001Um-08
+	for offic@gdenapice.com; Tue, 09 Apr 2019 23:22:09 +0200
+Received: by mail-pg1-f182.google.com with SMTP id f6so124318pgs.8
+        for <offic@gdenapice.com>; Tue, 09 Apr 2019 14:21:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=MfR/G5hLY8O9iTYTdaKJKWAnoobm6hg1vzli/lZoZo0=;
+        b=KE+EiGtFhYo/8o2UU4vfA9lrNfmjwzLQ97r0AjMppxC2Ehh0zQMFZwHS69D/W92bMk
+         WiK6W6Omn6tPQILIkqyeDRjcpspn47Ro9frhOxQWHDQ5+yExNl7Bf1B8TFtIPhsR1TDf
+         0q4EBtVI4gq8yY12roBL7oBOP2UgOivTP8GXvtwe96uohrWezg6dQcDRSd0uPnCTJac7
+         PIZBuKG7RN/8O3Ch6bGuhuyigF7MEb9t8wibdHaUKL0qEU7ZreOirydgEwnSceKAU6tm
+         CNkmjV7nXi5bI/kDiNFHn03LtqAeXK94N46eES9qaxRh2YCnbEcxKgMWH6GVRPu4mn2u
+         I/eA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=MfR/G5hLY8O9iTYTdaKJKWAnoobm6hg1vzli/lZoZo0=;
+        b=sfVF2b55BYF8fiWycIqBvW5mO0TFufRTGCQG4k/3eq/Ph5vjTQN7hWpgup8eQarlc/
+         kU7dElhJhGQPMUs+0k6b4LqTqkH5NEvl+UVgQDZljahAYWgG80Cipvi6rWz9pM88wOEK
+         RSJjwmI9RKU5qoQqH/64lrT8cjeDg5D2Y/TYKKA6VlhHByk14gCuoHFsSC4Z1jyFFvqE
+         X0F2qycJG9DP/ZrvdjxqL6NubpW1Pa+5Yr+PeAN+3nQtJBvU7GbJtiAvH0pyLqHd1rPN
+         eekvyJezSGibXmqDUY6vjZDjveYMcwGwfF9/kNTnany1H3k/JyIt2Uf3kGrxBAudcZz8
+         UZVw==
+X-Gm-Message-State: APjAAAXqt/mQDsji9LmfS961ni84ZIv8xyKL3O4c/SaUCNG0U87K84Ub
+	aYKAyvvoZ0xAzrlJMMoY/rH0jY0QOOr4xmM6SR/DwAmv
+X-Google-Smtp-Source: APXvYqxTwvsyqGqlSqE6T4STDmS+jDDoEO9yiiEjWY/0dD/Xl8i92Qd7nGi/PUQrpW3xrhxrgmRxd2TMUnmAsOEkI00=
+X-Received: by 2002:a63:100e:: with SMTP id f14mr4254751pgl.192.1554844870358;
+ Tue, 09 Apr 2019 14:21:10 -0700 (PDT)
+MIME-Version: 1.0
+From: Sara Labalo <sara.labalo18@gmail.com>
+Date: Tue, 9 Apr 2019 23:21:15 +0200
+Message-ID: <CANuApwtCGqFR+-+7FxFJs_uBa9+wMbnQFb7Qb-+VUA7F3APryA@mail.gmail.com>
+Subject: 
+To: "offic@gdenapice.com" <offic@gdenapice.com>
+Content-Type: multipart/alternative; boundary="0000000000002dba0105861f889a"
+X-Spam-Status: No, score=4.9
+X-Spam-Score: 49
+X-Spam-Bar: ++++
+X-Ham-Report: Spam detection software, running on the system "s4.unlimited.rs",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Proba Proba 
+ 
+ Content analysis details:   (4.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider (sara.labalo18[at]gmail.com)
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit (sara.labalo18[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  0.9 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.0 BODY_SINGLE_WORD       Message body is only one word (no spaces)
+X-Spam-Flag: NO
+
+--0000000000002dba0105861f889a
+Content-Type: text/plain; charset="UTF-8"
+
+Proba
+
+--0000000000002dba0105861f889a
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Proba</div>
+
+--0000000000002dba0105861f889a--
